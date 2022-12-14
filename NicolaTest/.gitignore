@@ -1,0 +1,5 @@
+.idea
+cmake-build-debug
+CMakeLists.txt
+a.out
+ft_president.sh

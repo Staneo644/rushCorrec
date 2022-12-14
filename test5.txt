@@ -1,0 +1,7 @@
+A : 101 : B-C-D-E-G-H
+B : 100 : A-C-D-E-G-H
+C : 100 : A-B-D-E-G-H
+D : 100 : A-B-C-E-G-H
+E : 99 : A-B-C-D-G-H
+G : 100 : A-B-C-D-E-H
+H : 100 : A-B-C-D-E-G
